@@ -1,0 +1,6 @@
+{
+  "name": "Milo - A Mileage Tracker",
+  "description": "Milo is a sleek, lightweight mileage tracker developed by Axon Developers for tracking fuel spend, mileage comparison, and consumption trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
